@@ -352,7 +352,7 @@ posts, and if we reload `/posts/1` we should see our post with just
 the simple author information.
 
 In this way, AMS is a powerful way to compose an API with explicit,
-easy-to-maintain serializers, rather than try to keep track of what
+easy-to-maintain serializers, rather than try to keep track of wha
 things you do and don't want to render at the controller or view level.
 
 ## Summary
